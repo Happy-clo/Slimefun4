@@ -10,4 +10,4 @@ updates:
     schedule:
       interval: "daily"
     commit-message:
-      prefix: "🔧"  
+      prefix: "🔧Fix"  
