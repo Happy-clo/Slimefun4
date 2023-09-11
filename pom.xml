@@ -405,7 +405,7 @@
         <dependency>
             <groupId>com.github.Xzavier0722</groupId>
             <artifactId>SlimefunCompLib</artifactId>
-            <version>b7a2bd8</version>
+            <version>1.0.2</version>
             <scope>compile</scope>
         </dependency>
         <!-- Auto updater lib -->
