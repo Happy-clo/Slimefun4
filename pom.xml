@@ -342,7 +342,7 @@
         <dependency>
             <groupId>com.github.LoneDev6</groupId>
             <artifactId>itemsadder-api</artifactId>
-            <version>3.4.1-r4</version>
+            <version>3.6.1</version>
             <scope>provided</scope>
 
             <exclusions>
