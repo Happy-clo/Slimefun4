@@ -190,6 +190,8 @@ Slimefun4 使用 [GitHub API](https://api.github.com/) 收集关于此开源项�
 
 另外，插件还使用了 [textures.minecraft.net](https://www.minecraft.net/en-us) 以获取协作者的 Minecraft 皮肤。  
 请注意：Slimefun 与 `Mojang Studios` 或 Minecraft 无关。
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
